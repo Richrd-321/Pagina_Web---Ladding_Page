@@ -32,3 +32,9 @@
 .team {
     background-color: #30336b;
 }
+
+@media (max-width: 768px) {
+    .team {
+        margin-bottom: 20px;
+    }
+}
